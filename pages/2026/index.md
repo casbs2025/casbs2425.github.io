@@ -46,7 +46,7 @@ panelists:
 
 participants:
 
-- image_path: /assets/images/2025/xxx.jpeg
+- image_path: /assets/images/bg.jpg
       alt: "Katy DeCelles"
       excerpt: >
         **Katy DeCelles**<br>
@@ -54,7 +54,7 @@ participants:
         [)
       bio: >
 
-- image_path: /assets/images/2025/xxx.jpeg
+- image_path: /assets/images/2025/bg.jpg
       alt: "Maureen Eger"
       excerpt: >
         **Maureen Eger**<br>
@@ -62,7 +62,7 @@ participants:
         [)
       bio: >
     
-- image_path: /assets/images/2025/xxx.jpeg
+- image_path: /assets/images/2025/bg.jpg
       alt: "Alice Farmer"
       excerpt: >
         **Alice Farmer**<br>
@@ -70,7 +70,7 @@ participants:
         [)
       bio: >
 
-- image_path: /assets/images/2025/xxx.jpeg
+- image_path: /assets/images/2025/bg.jpg
       alt: "Ann Owens"
       excerpt: >
         **Ann Owens**<br>
