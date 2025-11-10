@@ -1,10 +1,10 @@
 ---
-permalink: /2025
-title: "Workshop on AI Behavioral Science"
-excerpt: March 21, 2025 <br> Center for Advanced Study in the Behavioral Sciences (CASBS) <br> Stanford University (75 Alta Road, Stanford, CA 94305)
-browser-title: "AI Behavioral Science"
-masthead-title: "AI Behavioral Science"
-masthead-subtitle: "@2025"
+permalink: /2026
+title: "Conference on Recent Developments in the Behavioral Sciences"
+excerpt: XX XX, 2026 <br> Center for Advanced Study in the Behavioral Sciences (CASBS) <br> Stanford University (75 Alta Road, Stanford, CA 94305)
+browser-title: "CASBS Conference"
+masthead-title: "CASBS Conference"
+masthead-subtitle: "@2026"
 masthead-url: "/"
 layout: splash
 author_profile: false
@@ -25,8 +25,8 @@ navigation:
   #   url: /glb2022#accepted-papers
   - title: "Organization"
     url: /2025#organization
-  - title: "Relevant Workshops"
-    url: /relevant
+  # - title: "Relevant Workshops"
+  #  url: /relevant
 
 keynotes: 
 - image_path: /assets/images/2025/xxx.jpeg
